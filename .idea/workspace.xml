@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c32412-f86e-4d39-a940-db9c95c554e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Develop/routes/viewRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Develop/models/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Develop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606594545067</updated>
       <workItem from="1606594546113" duration="3176000" />
-      <workItem from="1607374654707" duration="739000" />
+      <workItem from="1607374654707" duration="1378000" />
     </task>
     <servers />
   </component>
@@ -89,5 +88,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607385259500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="448" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.0.1920.1200@0.0.1440.900" timestamp="1607385259500" />
+    <state x="388" y="121" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1607385084998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="388" y="121" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900/-1920.0.1920.1200@0.0.1440.900" timestamp="1607385084998" />
   </component>
 </project>
